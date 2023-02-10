@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Bhupal Rathod";RSVP=TRUE:mailto:Bhupal_Rathlavath@infosys.com
+ATTENDEE;CN=pritibudhia;RSVP=TRUE:mailto:pritibudhia@infosys.com
+ATTENDEE;CN="Kunal Ramesh Wadnere";RSVP=TRUE:mailto:kunal.wadnere@infosys.c
+	om
+ATTENDEE;CN="Aditi Ajay Sinha";RSVP=TRUE:mailto:Aditi_Sinha@infosys.com
+ATTENDEE;CN="Rajalaxmi Nag";RSVP=TRUE:mailto:rajalaxmi_nag@infosys.com
+ATTENDEE;CN=Agile_Coaches;RSVP=TRUE:mailto:Agile_Coaches@infosys.com
+ATTENDEE;CN=Agile_CSM;RSVP=TRUE:mailto:Agile_CSM@infosys.com
+ATTENDEE;CN=Agile_Practitioners;RSVP=TRUE:mailto:Agile_Practitioners@infosy
+	s.com
+ATTENDEE;CN="Siddharth Fadnis";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Siddha
+	rth_Fadnis@infosys.com
+CLASS:PUBLIC
+CREATED:20230103T120134Z
+DESCRIPTION:Dear Agile Enthusiasts\, \n\n                \n\nAgile Talkies 
+	is a knowledge sharing forum\, where practitioners share their Agile-DevOp
+	s experience followed by an informal interaction. All Agile enthusiasts ar
+	e welcome to be part of this forum.\n\n \n\n \n\n <https://infosys.webex.c
+	om/infosys/j.php?MTID=m56bb94d348eaea802fe07dfaea247b22> \n\n \n\n \n\nPri
+	vacy Consent: Please note that this session will be recorded. It is being 
+	recorded for the purpose of other employees to view at their convenience a
+	nd gain such knowledge. As part of recording the session\, all audio\, vid
+	eo and chat conversations would also be recorded. The recorded content wil
+	l be stored on our authorized vendors servers (including cloud service pro
+	viders servers) located in Singapore and our internal servers located in I
+	ndia. We shall take the necessary steps to ensure confidentiality and secu
+	rity of the transferred data. We have in particular implemented the follow
+	ing safeguards for EU/EEA : Standard Contractual Clauses (Art. 46 para. 2 
+	lit. c) GDPR). Such recorded content (Audio & Video) will be accessible to
+	 authorized members of Infosys quality team and internal Infosys employees
+	 who have access to LEX and Agile devops gateway tool.\n\n \n\nPersonal Da
+	ta will not be retained for a period more than necessary to fulfill the pu
+	rposes outlined in this privacy statement\, unless a longer retention peri
+	od is required by law or for directly related legitimate business purposes
+	. Infosys adopts reasonable and appropriate security practices and procedu
+	res including administrative\, physical security\, and technical controls 
+	in order to safeguard your Personal Data. If you have any queries or would
+	 like to exercise your data privacy rights as per applicable DP laws\, ple
+	ase reach out to us at BeingAgile@infosys.com <mailto:BeingAgile@infosys.c
+	om> . \n\nYou may choose to turn off your camera and microphone during the
+	 session if you do not wish your audio and video to be recorded.\n\n \n\n 
+	\n\n \n\nThanks & Regards\n\nBeingAgile Team\n\n \n\n
+DTEND;TZID="India Standard Time":20230105T160000
+DTSTAMP:20230103T115953Z
+DTSTART;TZID="India Standard Time":20230105T150000
+LAST-MODIFIED:20230103T120134Z
+LOCATION:https://infosys.webex.com/infosys/j.php?MTID=m56bb94d348eaea802fe0
+	7dfaea247b22
+ORGANIZER;CN=BeingAgile:mailto:BeingAgile@infosys.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Agile Talkies on 5th January '23 at 03:00 PM IST  - 
+	"DevSecOps implementation for Telco Business Process "
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000010C575B5961FD901000000000000000
+	010000000B4AFBD441081CD4484AE53DC26A38FBE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n/* Style Defini
+	tions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	fon
+	t-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoH
+	yperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:un
+	derline\;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-
+	family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{ms
+	o-style-type:export-only\;\n	font-family:"Calibri"\,sans-serif\;}\n@page W
+	ordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndi
+	v.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml
+	>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--
+	[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" 
+	data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang=EN-US lin
+	k="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSe
+	ction1><p class=MsoNormal><span style='color:black'>Dear Agile Enthusiasts
+	\, <o:p></o:p></span></p><p class=MsoNormal><span style='color:black'>&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\; <o:p></o:p></span></p><p class=MsoNormal><b><s
+	pan style='color:black'>Agile Talkies</span></b><span style='color:black'>
+	 is a knowledge sharing forum\, where practitioners share their Agile-DevO
+	ps experience followed by an informal interaction. All Agile enthusiasts a
+	re welcome to be part of this forum.<o:p></o:p></span></p><p class=MsoNorm
+	al><span style='color:black'><o:p>&nbsp\;</o:p></span></p><p class=MsoNorm
+	al><span style='color:black'><o:p>&nbsp\;</o:p></span></p><p class=MsoNorm
+	al align=center style='text-align:center'><a href="https://infosys.webex.c
+	om/infosys/j.php?MTID=m56bb94d348eaea802fe07dfaea247b22"><span style='colo
+	r:black\;text-decoration:none'><img border=0 width=1070 height=625 style='
+	width:11.1458in\;height:6.5104in' id="Picture_x0020_1" src="cid:image002.p
+	ng@01D91F98.FD3FFEE0" alt="Diagram&#10\;&#10\;Description automatically ge
+	nerated"></span></a><span style='color:black'><o:p></o:p></span></p><p cla
+	ss=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></
+	p><p class=MsoNormal><b><u>Privacy Consent:</u> Please note that this sess
+	ion will be recorded.</b> It is being recorded for the purpose of other em
+	ployees to view at their convenience and gain such knowledge. As part of r
+	ecording the session\, all audio\, video and chat conversations would also
+	 be recorded. The recorded content will be stored on our authorized vendor
+	s servers (including cloud service&nbsp\;providers servers) located in Sin
+	gapore and our internal servers located in India. We shall take the necess
+	ary steps to <span style='color:black'>ensure confidentiality</span> and s
+	ecurity of the transferred data. We have in particular implemented the fol
+	lowing safeguards for EU/EEA : Standard Contractual Clauses (Art. 46 para.
+	 2 lit. c) GDPR). Such recorded content (Audio &amp\; Video) will be acces
+	sible to authorized members of Infosys quality team and internal Infosys e
+	mployees who have access to LEX and Agile devops gateway tool.<o:p></o:p><
+	/p><p class=MsoNormal>&nbsp\;<o:p></o:p></p><p class=MsoNormal>Personal Da
+	ta will not be retained for a period more than necessary to fulfill the pu
+	rposes outlined in this privacy statement\, unless a longer retention peri
+	od is required by law or for directly related legitimate business purposes
+	. Infosys adopts reasonable and appropriate security practices and procedu
+	res including administrative\, physical security\, and technical controls 
+	in order to safeguard your Personal Data. If you have any queries or would
+	 like to exercise your data privacy rights as per applicable DP laws\, ple
+	ase reach out to us at <u><a href="mailto:BeingAgile@infosys.com">BeingAgi
+	le@infosys.com</a></u>. <o:p></o:p></p><p class=MsoNormal><b><u>You may ch
+	oose to turn off your camera and microphone during the session if you do n
+	ot wish your audio and video to be recorded.</u></b><o:p></o:p></p><p clas
+	s=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p
+	><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><b>Thanks &am
+	p\; Regards<o:p></o:p></b></p><p class=MsoNormal><b>BeingAgile Team<o:p></
+	o:p></b></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230103T115953Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
